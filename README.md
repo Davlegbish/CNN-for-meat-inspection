@@ -31,7 +31,7 @@ Classification with Fully Connected Layers:
 6. Output Layer: Use a softmax activation function in the final layer to produce probability scores for each class (fresh or rotten).
 
 
-Loss Function: Use categorical cross-entropy as the loss function, which is suitable for multi-class classification problems.
+7.Loss Function: Use categorical cross-entropy as the loss function, which is suitable for multi-class classification problems.
 Optimizer: Use an optimizer like Adam for efficient training and faster convergence.
 
  # B.Model Training:
@@ -40,7 +40,7 @@ Optimizer: Use an optimizer like Adam for efficient training and faster converge
 
 
 # C.Model Evaluation
-Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metrics such as accuracy and loss.
+1.Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metrics such as accuracy and loss.
 
 ![meat (56)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/fb1ae62f-2e58-461e-b8f7-8e760f97a380)
 
@@ -49,7 +49,8 @@ Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metri
 
 
 
-Confusion Matrix: Generate a confusion matrix to analyze the model's performance in more detail.
+2.Confusion Matrix: Generate a confusion matrix to analyze the model's performance in more detail.
+
 
 ![meat (53)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/f259d458-08d6-44f2-939d-78433d5a053c)
 

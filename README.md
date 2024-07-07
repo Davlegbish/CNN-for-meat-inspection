@@ -30,6 +30,8 @@ Classification with Fully Connected Layers:
 5. Dense Layers: Use one or more dense layers to perform the final classification. Each neuron in these layers will have a connection to every neuron in the previous layer, allowing the model to combine features extracted by the convolutional layers.
 6. Output Layer: Use a softmax activation function in the final layer to produce probability scores for each class (fresh or rotten).
 
+   ![Screenshot (59)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/e650aa3b-737f-454a-9547-78f2e070cbaa)
+
 
 7.Loss Function: Use categorical cross-entropy as the loss function, which is suitable for multi-class classification problems.
 Optimizer: Use an optimizer like Adam for efficient training and faster convergence.

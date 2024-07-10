@@ -6,7 +6,9 @@ To develop a Convolutional Neural Network (CNN) model capable of determining whe
 # Dataset:
 
 1.Total Size: 5.8GB.
+
 2.Training Dataset: 2,288 images (balanced across two classes: fresh and rotten).
+
 3.Testing Dataset: 980 images (balanced across two classes: fresh and rotten).
 
 Processes Involved:

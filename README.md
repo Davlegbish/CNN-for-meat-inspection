@@ -78,7 +78,8 @@ Save the trained model for future use,develop a pipeline for real-time inference
 ![Screenshot (58)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/066b57e0-830b-4931-bc2f-b5d9c074a585)
 
 
-🔮 Future Research Directions
+# 🔮 Future Research Directions
+
 XAI Integration: Implementing Grad-CAM to visualize neural attention on surface bacteria vs. color changes.
 "I am interested in exploring how Kolmogorov-Arnold Networks (KAN) could replace traditional Dense layers in this architecture to improve interpretability and parameter efficiency in industrial food-safety models."
 

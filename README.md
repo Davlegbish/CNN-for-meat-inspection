@@ -40,8 +40,7 @@ Classification with Fully Connected Layers:
    ![Screenshot (59)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/e650aa3b-737f-454a-9547-78f2e070cbaa)
 
 
-7.Loss Function: Use categorical cross-entropy as the loss function, which is suitable for multi-class classification problems.
-Optimizer: Use an optimizer like Adam for efficient training and faster convergence.
+
 
  # 📈 Performance & Evaluation
 Metric: Categorical Cross-Entropy loss minimized via the Adam Optimizer.

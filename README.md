@@ -8,13 +8,13 @@ Custom Convolutional Neural Networks (CNN) for Real-time Food Safety Classificat
 # 🎯 Industrial Objective
 To automate the classification of meat freshness using Deep Learning, providing a scalable alternative to manual inspection in food processing environments. This project directly addresses the need for Industrial AI in agricultural logistics.
 
-# Dataset:
+# 📊 Dataset Insights
+A 5.8GB high-resolution dataset was utilized to ensure the model captures subtle textural changes in meat fibers.
 
-1.Total Size: 5.8GB.
-
-2.Training Dataset: 2,288 images (balanced across two classes: fresh and rotten).
-
-3.Testing Dataset: 980 images (balanced across two classes: fresh and rotten).
+| Set      | Images | Class Balance |                |
+|----------|--------|---------------|----------------|
+| Training | 2288   | 50/50         | (Fresh/Rotten) |
+| Testing  | 980    | 50/50         | (Fresh/Rotten) |
 
 Processes Involved:
 

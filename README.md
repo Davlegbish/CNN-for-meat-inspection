@@ -54,11 +54,10 @@ Observation: The confusion matrix shows a high sensitivity for the 'Rotten' clas
 # C.Model Evaluation
 1.Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metrics such as accuracy and loss.
 
-<img width="1878" height="400" alt="Classfication_report " src="https://github.com/user-attachments/assets/db0dbee3-03c8-42c2-a6c8-af99c7c29483" />
+<img width="1878" height="600" alt="Classfication_report " src="https://github.com/user-attachments/assets/db0dbee3-03c8-42c2-a6c8-af99c7c29483" />
 
 
 
-![meat (52)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/919ddcb0-3753-4858-a485-0a7b45c40407)
 
 
  I am exploring Root Cause Analysis to determine the specific visual 'causes' (e.g., surface oxidation vs. bacterial colonies) that lead the model to a Rotten classification.

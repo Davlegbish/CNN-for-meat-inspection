@@ -37,9 +37,7 @@ Classification with Fully Connected Layers:
 5. Dense Layers: Use one or more dense layers to perform the final classification. Each neuron in these layers will have a connection to every neuron in the previous layer, allowing the model to combine features extracted by the convolutional layers.
 6. Classification: Use a softmax activation function in the final layer to produce probability scores for each class (fresh or rotten).
 
-   ![Screenshot (59)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/e650aa3b-737f-454a-9547-78f2e070cbaa)
-
-
+   <img width="996" height="380" alt="Classification_Classes " src="https://github.com/user-attachments/assets/f44955bf-16d1-4b3d-8d95-a2961e296b71" />
 
 
  # 📈 Performance & Evaluation
@@ -50,13 +48,14 @@ Analysis: <img width="1920" height="806" alt="Confusion_Matrix_Results" src="htt
 
 Observation: The confusion matrix shows a high sensitivity for the 'Rotten' class, which is critical for food safety to avoid "False Negatives."
 
-  ![meat(60)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/51006981-116a-4ea1-bae9-e4f8cd0c781b)
+
 
 
 # C.Model Evaluation
 1.Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metrics such as accuracy and loss.
 
-![meat (56)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/fb1ae62f-2e58-461e-b8f7-8e760f97a380)
+<img width="1878" height="343" alt="Classfication_report " src="https://github.com/user-attachments/assets/db0dbee3-03c8-42c2-a6c8-af99c7c29483" />
+
 
 
 ![meat (52)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/919ddcb0-3753-4858-a485-0a7b45c40407)

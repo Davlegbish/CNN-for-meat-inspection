@@ -1,5 +1,6 @@
 # 🥩 Automated Quality Control in Meat Processing
 Custom Convolutional Neural Networks (CNN) for Real-time Food Safety Classification
+
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

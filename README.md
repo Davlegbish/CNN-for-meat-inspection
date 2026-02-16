@@ -46,7 +46,7 @@ Optimizer: Use an optimizer like Adam for efficient training and faster converge
  # 📈 Performance & Evaluation
 Metric: Categorical Cross-Entropy loss minimized via the Adam Optimizer.
 
-Analysis: <img width="1920" height="1080" alt="Confusion_Matrix_Results" src="https://github.com/user-attachments/assets/20fd6e32-0d43-4b1f-b19d-98fd30baf362" />
+Analysis: <img width="1920" height="806" alt="Confusion_Matrix_Results" src="https://github.com/user-attachments/assets/17ec8e09-05e8-403c-a648-d7f8802bb962" />
 
 
 Observation: The confusion matrix shows a high sensitivity for the 'Rotten' class, which is critical for food safety to avoid "False Negatives."

@@ -1,7 +1,11 @@
-# Automated Quality Control in Meat Processing using Convolutional Neural Networks (CNN)
+# 🥩 Automated Quality Control in Meat Processing
+Custom Convolutional Neural Networks (CNN) for Real-time Food Safety Classification
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-# Objective:
-To develop a Convolutional Neural Network (CNN) model capable of determining whether meat is fresh or rotten using image classification techniques.
+# 🎯 Industrial Objective
+To automate the classification of meat freshness using Deep Learning, providing a scalable alternative to manual inspection in food processing environments. This project directly addresses the need for Industrial AI in agricultural logistics.
 
 # Dataset:
 

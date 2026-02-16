@@ -16,9 +16,9 @@ A 5.8GB high-resolution dataset was utilized to ensure the model captures subtle
 | Training | 2288   | 50/50         | (Fresh/Rotten) |
 | Testing  | 980    | 50/50         | (Fresh/Rotten) |
 
-Processes Involved:
 
-# A. Data Preprocessing:
+
+# 🏗 Model Architecture & Preprocessing
 
 1. Image Resizing: Standardize all images to a consistent size (e.g., 64x64 pixels) for uniformity and to fit the input size required by the CNN.
 Normalization: Scale pixel values to a range of 0 to 1 for better convergence during training.
@@ -35,7 +35,7 @@ Dimensionality Reduction with Max Pooling:
 Classification with Fully Connected Layers:
 
 5. Dense Layers: Use one or more dense layers to perform the final classification. Each neuron in these layers will have a connection to every neuron in the previous layer, allowing the model to combine features extracted by the convolutional layers.
-6. Output Layer: Use a softmax activation function in the final layer to produce probability scores for each class (fresh or rotten).
+6. Classification: Use a softmax activation function in the final layer to produce probability scores for each class (fresh or rotten).
 
    ![Screenshot (59)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/e650aa3b-737f-454a-9547-78f2e070cbaa)
 
@@ -43,7 +43,12 @@ Classification with Fully Connected Layers:
 7.Loss Function: Use categorical cross-entropy as the loss function, which is suitable for multi-class classification problems.
 Optimizer: Use an optimizer like Adam for efficient training and faster convergence.
 
- # B.Model Training:
+ # 📈 Performance & Evaluation
+Metric: Categorical Cross-Entropy loss minimized via the Adam Optimizer.
+
+Analysis: (Insert your Confusion Matrix image here)
+
+Observation: The confusion matrix shows a high sensitivity for the 'Rotten' class, which is critical for food safety to avoid "False Negatives."
 
   ![meat(60)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/51006981-116a-4ea1-bae9-e4f8cd0c781b)
 

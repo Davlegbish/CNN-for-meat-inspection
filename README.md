@@ -62,7 +62,7 @@ Observation: The confusion matrix shows a high sensitivity for the 'Rotten' clas
 ![meat (52)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/919ddcb0-3753-4858-a485-0a7b45c40407)
 
 
-"Beyond simple accuracy, I am exploring Root Cause Analysis to determine the specific visual 'causes' (e.g., surface oxidation vs. bacterial colonies) that lead the model to a 'Rotten' classification.
+ I am exploring Root Cause Analysis to determine the specific visual 'causes' (e.g., surface oxidation vs. bacterial colonies) that lead the model to a Rotten classification.
 
 
 # D.Save the Model: 
@@ -80,7 +80,8 @@ Save the trained model for future use,develop a pipeline for real-time inference
 # 🔮 Future Research Directions
 
 XAI Integration: Implementing Grad-CAM to visualize neural attention on surface bacteria vs. color changes.
-"I am interested in exploring how Kolmogorov-Arnold Networks (KAN) could replace traditional Dense layers in this architecture to improve interpretability and parameter efficiency in industrial food-safety models."
+
+I am interested in exploring how Kolmogorov-Arnold Networks (KAN) could replace traditional Dense layers in this architecture to improve interpretability and parameter efficiency in industrial food-safety models.
 
 
 

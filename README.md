@@ -54,7 +54,7 @@ Observation: The confusion matrix shows a high sensitivity for the 'Rotten' clas
 # C.Model Evaluation
 1.Accuracy and Loss Metrics: Evaluate the model on the testing dataset using metrics such as accuracy and loss.
 
-<img width="1878" height="343" alt="Classfication_report " src="https://github.com/user-attachments/assets/db0dbee3-03c8-42c2-a6c8-af99c7c29483" />
+<img width="1878" height="400" alt="Classfication_report " src="https://github.com/user-attachments/assets/db0dbee3-03c8-42c2-a6c8-af99c7c29483" />
 
 
 
@@ -63,17 +63,6 @@ Observation: The confusion matrix shows a high sensitivity for the 'Rotten' clas
 
  I am exploring Root Cause Analysis to determine the specific visual 'causes' (e.g., surface oxidation vs. bacterial colonies) that lead the model to a Rotten classification.
 
-
-# D.Save the Model: 
-Save the trained model for future use,develop a pipeline for real-time inference where new images can be classified as fresh or rotten.
-
-![Screenshot (59)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/e650aa3b-737f-454a-9547-78f2e070cbaa)
-
-
-![save (57)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/b828e758-d3a0-4522-b26c-f146ec1d07d6)
-
-
-![Screenshot (58)](https://github.com/Davlegbish/CNN-for-meat-inspection/assets/155652335/066b57e0-830b-4931-bc2f-b5d9c074a585)
 
 
 # 🔮 Future Research Directions

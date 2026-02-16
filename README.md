@@ -1,4 +1,4 @@
-# Improving Meat Inspection with Convolutional Neural Networks (CNNs)
+# Automated Quality Control in Meat Processing using Convolutional Neural Networks (CNN)
 
 # Objective:
 To develop a Convolutional Neural Network (CNN) model capable of determining whether meat is fresh or rotten using image classification techniques.
